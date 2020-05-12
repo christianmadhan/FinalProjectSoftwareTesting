@@ -15,14 +15,12 @@
 
   <input id="titleField" style="width: 500px; resize: none; margin-bottom: 5px;" placeholder="Title"></input><br>
   <textarea id="noteField" style="width: 500px; height: 300px; resize: none;"></textarea><br>
+  <button id="addNewNoteButton" class="show" onclick="addNewNote()" style="width: 130px; height: 35px; background-color: blue; color: white;">ADD NEW NOTE</button>
   <button id="eraseButton" onclick="eraseField()" style="width: 100px; height: 30px; background-color: red; color: white;">ERASE</button>
   <button id="saveButton" onclick="saveNote()" style="width: 100px; height: 30px; background-color: green; color: white; margin-bottom: 35px;">SAVE</button><br>
   
-  <h3>Saved Notes<div id="counter">(3/10)</div></h3>
+  <h3>Saved Notes<div id="counter">(0/10)</div></h3>
   <select id="savedNotes" size="10" style="width: 500px; height: 130px;">
-    <option value="note1">example</option>
-    <option value="note2">example</option>
-    <option value="note3">example</option>
   </select><br>
   <button id="deleteButton" onclick="deleteNote()" style="width: 100px; height: 30px; background-color: red; color: white;">DELETE</button>
   <button id="openButton" onclick="openNote()" style="width: 100px; height: 30px; background-color: lightskyblue; color: white; margin-bottom: 50px;">OPEN</button>
