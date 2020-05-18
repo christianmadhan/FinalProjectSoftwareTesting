@@ -131,6 +131,29 @@ function addNewNote(){
     edit_note = false;
     note_being_edited = null;
     document.getElementById('addNewNoteButton').classList.toggle('show');
+    this.refreshCounter();
+}
+
+// sort by save date
+function sortByDate(){
+
+}
+
+// sort by length
+function sortByLength(){
+
+}
+
+// sort by title
+function sortByTitle(){
+    // Notes.sort();   ---> this would sort the list alphabetically
+    // (I think it fails, because it contains objects and not clear strings
+    // + something might be wrong with how the notes are stored, because deletion doesn't work properly sometimes)
+}
+
+function refreshCounter(){
+    var notes_counter = document.getElementById("counter").value;
+    notes_counter.innerHTML = Notes.length + '/10';
 }
 
 window.onload = function() {
@@ -139,6 +162,7 @@ window.onload = function() {
    // if there is an array of notes, we set the global note array and create the select list
    if(notes){
        this.Notes = notes;
-       this.createSavedNotesList();
+       this.createSavedNotesList();      
+       this.refreshCounter(); 
    }
 }
