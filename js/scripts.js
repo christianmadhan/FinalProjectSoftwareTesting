@@ -35,7 +35,7 @@ function saveNote() {
     switch (edit_note) {
       // Editing a note from our note array
       case true:
-        editNote(note_being_edited.id, title, text);
+        editNote(note_being_edited.id, title, text, text.length);
         break;
 
       // Creating a new note and adding it to the note array
@@ -125,11 +125,12 @@ function createSavedNotesList() {
 }
 
 // edit a note from our note array
-function editNote(id, title, note) {
+function editNote(id, title, note, notelength) {
   Notes.forEach((element) => {
     if (element.id == id) {
       element.title = title;
       element.note = note;
+      element.notelength = notelength;
       createSavedNotesList();
       alert("Note updated!");
     }
