@@ -9,7 +9,7 @@ namespace NoteApp_SeleniumWebDriver
     public class Tests
     {
         IWebDriver driver;
-        string weburl = confidential.Localhost;
+        string weburl = confidential.LocalHost;
 
         [SetUp]
         public void Setup()
