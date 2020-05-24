@@ -40,7 +40,7 @@ function saveNote() {
 
       // Creating a new note and adding it to the note array
       case false:
-        var noteid = Notes.length;
+        var noteid = Notes.length + 1;
         var notelength = text.length;
         var date = Date.now();
         var note = {
@@ -56,6 +56,7 @@ function saveNote() {
         notes_counter.innerHTML = Notes.length + "/10";
         // recreate the list so that the new note is showing.
         createSavedNotesList();
+        console.log(Notes);
       default:
         break;
     }
