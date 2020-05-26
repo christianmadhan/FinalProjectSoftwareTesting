@@ -120,6 +120,8 @@ window.onload = function () {
   if (notes) {
   let created = CRUD.createSavedNotesList(notes);
   Notes = created;
+  let test = JSON.stringify(Notes);
+  console.log(test)
   refreshCounter();
   }
 };
