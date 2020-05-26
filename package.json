@@ -1,0 +1,24 @@
+{
+  "name": "FinalProjectSoftwareTesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianmadhan/FinalProjectSoftwareTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christianmadhan/FinalProjectSoftwareTesting/issues"
+  },
+  "homepage": "https://github.com/christianmadhan/FinalProjectSoftwareTesting#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^7.2.0"
+  }
+}
