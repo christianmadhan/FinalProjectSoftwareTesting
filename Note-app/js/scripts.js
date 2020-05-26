@@ -60,6 +60,7 @@ deleteNoteBTN.addEventListener('click', () => {
     Notes = created;
   }
 
+  location.reload();
  });
 
  openNoteBTN.addEventListener('click', () => {
