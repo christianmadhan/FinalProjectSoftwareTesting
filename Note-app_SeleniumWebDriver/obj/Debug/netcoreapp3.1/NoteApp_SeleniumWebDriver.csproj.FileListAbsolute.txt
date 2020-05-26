@@ -176,10 +176,11 @@ C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoft
 C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.csprojAssemblyReference.cache
 C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.AssemblyInfoInputs.cache
 C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.AssemblyInfo.cs
 C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.csproj.CopyComplete
 C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.dll
 C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.pdb
 C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll

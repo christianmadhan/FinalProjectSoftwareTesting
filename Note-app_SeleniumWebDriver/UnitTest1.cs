@@ -1,10 +1,12 @@
-﻿using NUnit.Framework;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
 using System;
 using System.Collections;
 using System.Threading;
+using Assert = NUnit.Framework.Assert;
 
 namespace NoteApp_SeleniumWebDriver
 {
@@ -223,12 +225,6 @@ namespace NoteApp_SeleniumWebDriver
             Assert.AreEqual(alertMessage, expectedAlert);
         }
 
-        [TearDown]
-        public void close_Browser()
-        {
-            driver.Close();
-        }
-
         // SAVE then OPEN notes with different sets of characters (using dataprovider to create multiple test cases)
         [TestCase("Title One", "Body One")] // Latin
         [TestCase("12345", "1234567890")] // numbers
@@ -269,9 +265,149 @@ namespace NoteApp_SeleniumWebDriver
             Assert.AreEqual(reopenedBody, originalBody);
         }
 
-        // delete note
-        // sort notes
-        // saved notes counter
-        // add new note button when opening a saved note
+        // SAVE note then DELETE it
+        [Test]
+        //[ExpectedException(typeof(ElementNotSelectableException))]  ---> This got removed from NUnit recently
+        public void save_then_delete_note()
+        {
+            // ARRANGE
+            IWebElement titleField = driver.FindElement(By.Id("titleField"));
+            IWebElement noteField = driver.FindElement(By.Id("noteField"));
+            IWebElement saveButton = driver.FindElement(By.Id("saveButton"));
+            IWebElement deleteButton = driver.FindElement(By.Id("deleteButton"));
+            SelectElement noteList = new SelectElement(driver.FindElement(By.Id("savedNotes")));
+
+            // ACT
+            titleField.SendKeys("Test note title");
+            noteField.SendKeys("Test note body");
+            saveButton.Click();
+            Thread.Sleep(500);
+
+            noteList.SelectByText("Test note title");
+            deleteButton.Click();
+            Thread.Sleep(500);
+
+            // ASSERT (Assert.Throws<>() is the new way to check expected exceptions)
+            Assert.Throws<ElementNotSelectableException>(delegate ()
+            {
+                try
+                {
+                    noteList.SelectByText("Test note title");
+                }
+                catch
+                {
+                    throw new ElementNotSelectableException();
+                }
+            });            
+        }
+        
+        // SAVE notes then check the counter
+        [Test]
+        public void save_then_check_counter()
+        {
+            // ARRANGE
+            IWebElement titleField = driver.FindElement(By.Id("titleField"));
+            IWebElement noteField = driver.FindElement(By.Id("noteField"));
+            IWebElement saveButton = driver.FindElement(By.Id("saveButton"));
+            IWebElement counterDisplay = driver.FindElement(By.Id("counter"));
+
+            // ACT
+            titleField.SendKeys("Test note title");
+            noteField.SendKeys("Test note body");
+            saveButton.Click();
+            saveButton.Click();
+            saveButton.Click();
+            Thread.Sleep(500);
+            string newCounterDisplay = counterDisplay.Text;
+
+            // ASSERT
+            Assert.AreEqual(newCounterDisplay, "3/10");
+        }
+
+        // SAVE notes then DELETE a note then check the counter
+        [Test]
+        public void save_then_delete_then_check_counter()
+        {
+            // ARRANGE
+            IWebElement titleField = driver.FindElement(By.Id("titleField"));
+            IWebElement noteField = driver.FindElement(By.Id("noteField"));
+            IWebElement saveButton = driver.FindElement(By.Id("saveButton"));
+            IWebElement deleteButton = driver.FindElement(By.Id("deleteButton"));
+            SelectElement noteList = new SelectElement(driver.FindElement(By.Id("savedNotes")));
+
+            // ACT
+            titleField.SendKeys("Test note title");
+            noteField.SendKeys("Test note body");
+            saveButton.Click();
+            saveButton.Click();
+            saveButton.Click();
+            Thread.Sleep(500);
+            
+            noteList.SelectByIndex(1);
+            deleteButton.Click();
+            Thread.Sleep(500);
+            IWebElement counterDisplay = driver.FindElement(By.Id("counter"));
+            string newCounterDisplay = counterDisplay.Text;
+
+            // ASSERT
+            Assert.AreEqual(newCounterDisplay, "2/10");
+        }
+
+        // Check for "Add New Note" button when opening a saved note
+        [Test]
+        public void open_then_check_newnote_button()
+        {
+            // ARRANGE
+            IWebElement titleField = driver.FindElement(By.Id("titleField"));
+            IWebElement noteField = driver.FindElement(By.Id("noteField"));
+            IWebElement saveButton = driver.FindElement(By.Id("saveButton"));
+            IWebElement openButton = driver.FindElement(By.Id("openButton"));
+            SelectElement noteList = new SelectElement(driver.FindElement(By.Id("savedNotes")));
+
+            // ACT
+            titleField.SendKeys("Test note title");
+            noteField.SendKeys("Test note body");
+            saveButton.Click();
+            Thread.Sleep(500);
+
+            noteList.SelectByText("Test note title");
+            openButton.Click();
+            Thread.Sleep(500);
+
+            // ASSERT
+            Assert.AreEqual(driver.FindElements(By.Id("addNewNoteButton")).Count, 1);
+        }
+
+        // SORT notes by "Save Date", "Length" and "Title"
+        [TestCase("dateSortButton")]
+        [TestCase("lengthSortButton")]
+        [TestCase("titleSortButton")]
+        public void try_every_sorting_method()
+        {
+            // ARRANGE
+            IWebElement titleField = driver.FindElement(By.Id("titleField"));
+            IWebElement noteField = driver.FindElement(By.Id("noteField"));
+            IWebElement saveButton = driver.FindElement(By.Id("saveButton"));
+            IWebElement counterDisplay = driver.FindElement(By.Id("counter"));
+
+            // ACT
+            titleField.SendKeys("Test note title");
+            noteField.SendKeys("Test note body");
+            saveButton.Click();
+            saveButton.Click();
+            saveButton.Click();
+            Thread.Sleep(500);
+            string newCounterDisplay = counterDisplay.Text;
+
+            // ASSERT
+            Assert.AreEqual(newCounterDisplay, "3/10");
+        }
+
+
+        [TearDown]
+        public void close_Browser()
+        {
+            driver.Close();
+        }
     }
 }
