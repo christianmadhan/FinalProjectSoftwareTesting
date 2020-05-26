@@ -382,27 +382,71 @@ namespace NoteApp_SeleniumWebDriver
         [TestCase("dateSortButton")]
         [TestCase("lengthSortButton")]
         [TestCase("titleSortButton")]
-        public void try_every_sorting_method()
+        public void try_every_sorting_method(string currentSortButton)
         {
             // ARRANGE
             IWebElement titleField = driver.FindElement(By.Id("titleField"));
             IWebElement noteField = driver.FindElement(By.Id("noteField"));
             IWebElement saveButton = driver.FindElement(By.Id("saveButton"));
-            IWebElement counterDisplay = driver.FindElement(By.Id("counter"));
+            IWebElement sortButton = driver.FindElement(By.Id(currentSortButton));
+            SelectElement noteList = new SelectElement(driver.FindElement(By.Id("savedNotes")));
 
             // ACT
-            titleField.SendKeys("Test note title");
-            noteField.SendKeys("Test note body");
+            titleField.Clear();
+            titleField.SendKeys("CCC note");
+            noteField.Clear();
+            noteField.SendKeys("CCC");
             saveButton.Click();
+            Thread.Sleep(100);
+
+            titleField.Clear();
+            titleField.SendKeys("AAA note");
+            noteField.Clear();
+            noteField.SendKeys("AAAAA");
             saveButton.Click();
+            Thread.Sleep(100);
+
+            titleField.Clear();
+            titleField.SendKeys("BBB note");
+            noteField.Clear();
+            noteField.SendKeys("B");
             saveButton.Click();
+            Thread.Sleep(100);            
+
+            sortButton.Click();
             Thread.Sleep(500);
-            string newCounterDisplay = counterDisplay.Text;
 
             // ASSERT
-            Assert.AreEqual(newCounterDisplay, "3/10");
-        }
+            switch (currentSortButton)
+            {
+                case "dateSortButton":
+                    noteList.SelectByIndex(0);
+                    Assert.AreEqual(noteList.SelectedOption.Text, "CCC note");
+                    noteList.SelectByIndex(1);
+                    Assert.AreEqual(noteList.SelectedOption.Text, "AAA note");
+                    noteList.SelectByIndex(2);
+                    Assert.AreEqual(noteList.SelectedOption.Text, "BBB note");
+                    break;
 
+                case "lengthSortButton":
+                    noteList.SelectByIndex(0);
+                    Assert.AreEqual(noteList.SelectedOption.Text, "AAA note");
+                    noteList.SelectByIndex(1);
+                    Assert.AreEqual(noteList.SelectedOption.Text, "CCC note");
+                    noteList.SelectByIndex(2);
+                    Assert.AreEqual(noteList.SelectedOption.Text, "BBB note");
+                    break;
+
+                case "titleSortButton":
+                    noteList.SelectByIndex(0);
+                    Assert.AreEqual(noteList.SelectedOption.Text, "AAA note");
+                    noteList.SelectByIndex(1);
+                    Assert.AreEqual(noteList.SelectedOption.Text, "BBB note");
+                    noteList.SelectByIndex(2);
+                    Assert.AreEqual(noteList.SelectedOption.Text, "CCC note");
+                    break;
+            }
+        }
 
         [TearDown]
         public void close_Browser()

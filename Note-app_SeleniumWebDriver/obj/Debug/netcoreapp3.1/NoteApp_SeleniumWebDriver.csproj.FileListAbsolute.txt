@@ -184,3 +184,4 @@ C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoft
 C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
 C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.csprojAssemblyReference.cache
