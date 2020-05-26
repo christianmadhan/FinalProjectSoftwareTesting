@@ -4,14 +4,24 @@ export function saveNote(text, title, note_array, counter, check_edit_note) {
     // Check if the save operation is allowed
     if (title === "") {
       alert("Title can't be empty");
+      throw "Error: Empty String";
+    
     } else if (text === "") {
       alert("Note can't be empty");
+      throw "Error: Empty String";
+    
     } else if (title.length > 40) {
       alert("Title can max contain 40 characters");
+      throw "Error: character limit reached";
+
     } else if (text.length > 500) {
       alert("note text can max contain 500 characters");
+      throw "Error: character limit exteeded ";
+
     } else if (note_array.length >= 10) {
       alert("You can only have 10 notes");
+      throw "Error: Maximum number of notes reached";
+
     } else {
       switch (check_edit_note) {
         // Editing a note from our note array
