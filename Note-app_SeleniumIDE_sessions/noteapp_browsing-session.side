@@ -1,0 +1,587 @@
+{
+  "id": "5d4723b7-2f52-4196-ba5e-2f71d6acb8fd",
+  "version": "2.0",
+  "name": "noteapp_browsing-session",
+  "url": "http://127.0.0.1:5500/Note-app/",
+  "tests": [{
+    "id": "9c08fef2-ce39-4417-9f53-90a01d343997",
+    "name": "1.) saving a note",
+    "commands": [{
+      "id": "c1ddc9ff-3adb-4828-b058-33f1b18a8ef2",
+      "comment": "",
+      "command": "open",
+      "target": "http://127.0.0.1:5500/Note-app/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2391a769-5b74-4bd6-bc98-e82582b38b2d",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1552x840",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "257a4aae-65cc-427e-aa80-373d0bc03a99",
+      "comment": "",
+      "command": "click",
+      "target": "id=titleField",
+      "targets": [
+        ["id=titleField", "id"],
+        ["css=#titleField", "css:finder"],
+        ["xpath=//input[@id='titleField']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c9f9c964-e517-4dbb-b461-c45fc9cf8994",
+      "comment": "",
+      "command": "type",
+      "target": "id=titleField",
+      "targets": [
+        ["id=titleField", "id"],
+        ["css=#titleField", "css:finder"],
+        ["xpath=//input[@id='titleField']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Test note title"
+    }, {
+      "id": "d96fb4d2-90a1-4b49-8a1f-77d3e17d07e5",
+      "comment": "",
+      "command": "click",
+      "target": "id=noteField",
+      "targets": [
+        ["id=noteField", "id"],
+        ["css=#noteField", "css:finder"],
+        ["xpath=//textarea[@id='noteField']", "xpath:attributes"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "57d13f8d-2fd7-426b-b029-793ffde26568",
+      "comment": "",
+      "command": "type",
+      "target": "id=noteField",
+      "targets": [
+        ["id=noteField", "id"],
+        ["css=#noteField", "css:finder"],
+        ["xpath=//textarea[@id='noteField']", "xpath:attributes"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": "Test note body"
+    }, {
+      "id": "59bd4f8c-ede2-473a-83f3-f465524d9915",
+      "comment": "",
+      "command": "click",
+      "target": "id=saveButton",
+      "targets": [
+        ["id=saveButton", "id"],
+        ["css=#saveButton", "css:finder"],
+        ["xpath=//button[@id='saveButton']", "xpath:attributes"],
+        ["xpath=//button[3]", "xpath:position"],
+        ["xpath=//button[contains(.,'SAVE')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "222230cd-f9a0-4181-9c7b-5045de2d1f87",
+    "name": "2.) open a note",
+    "commands": [{
+      "id": "c3ddbb0e-5349-4d3a-8f82-b1ec08731f5a",
+      "comment": "",
+      "command": "open",
+      "target": "http://127.0.0.1:5500/Note-app/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "05888f73-6a1c-44a8-9b29-8520be7a4a49",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "854x678",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c4f655f1-97fd-4145-9338-cbb995b89d28",
+      "comment": "",
+      "command": "select",
+      "target": "id=savedNotes",
+      "targets": [],
+      "value": "label=Test note title"
+    }, {
+      "id": "52ab042f-fea0-4160-afbc-de22eba1d066",
+      "comment": "",
+      "command": "click",
+      "target": "css=option",
+      "targets": [
+        ["css=option", "css:finder"],
+        ["xpath=//option[@value='1']", "xpath:attributes"],
+        ["xpath=//select[@id='savedNotes']/option", "xpath:idRelative"],
+        ["xpath=//option", "xpath:position"],
+        ["xpath=//option[contains(.,'Test note title')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "7e4ea929-78ac-49a5-b6de-20e54d7ea4ac",
+      "comment": "",
+      "command": "click",
+      "target": "id=openButton",
+      "targets": [
+        ["id=openButton", "id"],
+        ["css=#openButton", "css:finder"],
+        ["xpath=//button[@id='openButton']", "xpath:attributes"],
+        ["xpath=//button[8]", "xpath:position"],
+        ["xpath=//button[contains(.,'OPEN')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "f3c51857-f20d-4a0b-b8b3-1bfcb3e67d8c",
+    "name": "3.) delete a note",
+    "commands": [{
+      "id": "be1f4f86-4867-4912-9d20-27bf05085512",
+      "comment": "",
+      "command": "open",
+      "target": "http://127.0.0.1:5500/Note-app/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2f834447-939c-4c65-8b64-de8c4f2bb2e4",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "854x678",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "291b0ad7-6620-4546-a4bf-6be1da335c5e",
+      "comment": "",
+      "command": "select",
+      "target": "id=savedNotes",
+      "targets": [],
+      "value": "label=Test note title"
+    }, {
+      "id": "1e727bde-8284-4343-b2d2-8ffa038ca0a2",
+      "comment": "",
+      "command": "click",
+      "target": "css=option",
+      "targets": [
+        ["css=option", "css:finder"],
+        ["xpath=//option[@value='1']", "xpath:attributes"],
+        ["xpath=//select[@id='savedNotes']/option", "xpath:idRelative"],
+        ["xpath=//option", "xpath:position"],
+        ["xpath=//option[contains(.,'Test note title')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "cf8cc790-068d-4d7d-93da-0cdd46945c4b",
+      "comment": "",
+      "command": "click",
+      "target": "id=deleteButton",
+      "targets": [
+        ["id=deleteButton", "id"],
+        ["css=#deleteButton", "css:finder"],
+        ["xpath=//button[@id='deleteButton']", "xpath:attributes"],
+        ["xpath=//button[7]", "xpath:position"],
+        ["xpath=//button[contains(.,'DELETE')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "691bf90e-0d55-4141-acfa-b42825460565",
+    "name": "4.) add multiple notes",
+    "commands": [{
+      "id": "60a02afe-ddd7-42e1-a7f0-6e22d5e3f9be",
+      "comment": "",
+      "command": "open",
+      "target": "http://127.0.0.1:5500/Note-app/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a9b8945c-3493-40c9-9727-0ecbd380a388",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "856x680",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fc36829e-fafa-4e2b-abcf-339d690e2ceb",
+      "comment": "",
+      "command": "click",
+      "target": "id=titleField",
+      "targets": [
+        ["id=titleField", "id"],
+        ["css=#titleField", "css:finder"],
+        ["xpath=//input[@id='titleField']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d4772034-323b-4d22-9bd7-a3be34cb1f37",
+      "comment": "",
+      "command": "type",
+      "target": "id=titleField",
+      "targets": [
+        ["id=titleField", "id"],
+        ["css=#titleField", "css:finder"],
+        ["xpath=//input[@id='titleField']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "note 1"
+    }, {
+      "id": "43fa8df2-1354-4146-97a0-3a1e5bb16f0a",
+      "comment": "",
+      "command": "click",
+      "target": "id=noteField",
+      "targets": [
+        ["id=noteField", "id"],
+        ["css=#noteField", "css:finder"],
+        ["xpath=//textarea[@id='noteField']", "xpath:attributes"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "589b2019-f266-4192-ab28-3bd81f3b483c",
+      "comment": "",
+      "command": "type",
+      "target": "id=noteField",
+      "targets": [
+        ["id=noteField", "id"],
+        ["css=#noteField", "css:finder"],
+        ["xpath=//textarea[@id='noteField']", "xpath:attributes"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": "asdasd"
+    }, {
+      "id": "a63113d4-42e5-4f8d-8a66-4299d7304dc0",
+      "comment": "",
+      "command": "click",
+      "target": "id=saveButton",
+      "targets": [
+        ["id=saveButton", "id"],
+        ["css=#saveButton", "css:finder"],
+        ["xpath=//button[@id='saveButton']", "xpath:attributes"],
+        ["xpath=//button[3]", "xpath:position"],
+        ["xpath=//button[contains(.,'SAVE')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "e86a5931-f5b9-47ae-9d44-b6785997bdb2",
+      "comment": "",
+      "command": "click",
+      "target": "id=titleField",
+      "targets": [
+        ["id=titleField", "id"],
+        ["css=#titleField", "css:finder"],
+        ["xpath=//input[@id='titleField']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "157b077c-e5f7-46ec-ba9b-43e2a2cb601a",
+      "comment": "",
+      "command": "type",
+      "target": "id=titleField",
+      "targets": [
+        ["id=titleField", "id"],
+        ["css=#titleField", "css:finder"],
+        ["xpath=//input[@id='titleField']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "note 2"
+    }, {
+      "id": "b80468c9-7f2b-4f2c-8a3c-a12a32d8564e",
+      "comment": "",
+      "command": "click",
+      "target": "id=noteField",
+      "targets": [
+        ["id=noteField", "id"],
+        ["css=#noteField", "css:finder"],
+        ["xpath=//textarea[@id='noteField']", "xpath:attributes"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1aba2b4c-2334-468f-9be0-a84298dbf616",
+      "comment": "",
+      "command": "type",
+      "target": "id=noteField",
+      "targets": [
+        ["id=noteField", "id"],
+        ["css=#noteField", "css:finder"],
+        ["xpath=//textarea[@id='noteField']", "xpath:attributes"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": "asd"
+    }, {
+      "id": "43f32a0e-b1c0-40ac-bcfa-ac3c74d16a54",
+      "comment": "",
+      "command": "click",
+      "target": "id=saveButton",
+      "targets": [
+        ["id=saveButton", "id"],
+        ["css=#saveButton", "css:finder"],
+        ["xpath=//button[@id='saveButton']", "xpath:attributes"],
+        ["xpath=//button[3]", "xpath:position"],
+        ["xpath=//button[contains(.,'SAVE')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "48dcb92f-a61e-49b5-8ff3-6b7d3b47548f",
+      "comment": "",
+      "command": "click",
+      "target": "id=titleField",
+      "targets": [
+        ["id=titleField", "id"],
+        ["css=#titleField", "css:finder"],
+        ["xpath=//input[@id='titleField']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2451849d-39e0-492c-9273-0c12fb2e8fce",
+      "comment": "",
+      "command": "type",
+      "target": "id=titleField",
+      "targets": [
+        ["id=titleField", "id"],
+        ["css=#titleField", "css:finder"],
+        ["xpath=//input[@id='titleField']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "note 3"
+    }, {
+      "id": "efc24e9c-c0f3-4812-a42a-7589a207b42b",
+      "comment": "",
+      "command": "click",
+      "target": "id=noteField",
+      "targets": [
+        ["id=noteField", "id"],
+        ["css=#noteField", "css:finder"],
+        ["xpath=//textarea[@id='noteField']", "xpath:attributes"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "dcb39566-fe28-4ff0-a0b8-acddba16dba6",
+      "comment": "",
+      "command": "type",
+      "target": "id=noteField",
+      "targets": [
+        ["id=noteField", "id"],
+        ["css=#noteField", "css:finder"],
+        ["xpath=//textarea[@id='noteField']", "xpath:attributes"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": "asdasdasd"
+    }, {
+      "id": "e68d64bd-daf6-4a67-a032-4f3ffb442b0c",
+      "comment": "",
+      "command": "click",
+      "target": "id=saveButton",
+      "targets": [
+        ["id=saveButton", "id"],
+        ["css=#saveButton", "css:finder"],
+        ["xpath=//button[@id='saveButton']", "xpath:attributes"],
+        ["xpath=//button[3]", "xpath:position"],
+        ["xpath=//button[contains(.,'SAVE')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "c806e756-42e9-4714-9b69-11a4ff4cc9df",
+    "name": "5.) sort notes by date",
+    "commands": [{
+      "id": "0f915ae3-f1fd-4321-aaf5-99c236382534",
+      "comment": "",
+      "command": "open",
+      "target": "http://127.0.0.1:5500/Note-app/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "cd57b90f-acb8-46c1-9f76-2b95a1ce2130",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "856x680",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d436415d-361e-4596-b7ba-ccb104c3874f",
+      "comment": "",
+      "command": "click",
+      "target": "id=dateSortButton",
+      "targets": [
+        ["id=dateSortButton", "id"],
+        ["css=#dateSortButton", "css:finder"],
+        ["xpath=//button[@id='dateSortButton']", "xpath:attributes"],
+        ["xpath=//button[4]", "xpath:position"],
+        ["xpath=//button[contains(.,'Save Date')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "8ec590f5-28e7-43e5-85f7-ed4e1ac40867",
+    "name": "6.) sort notes by length",
+    "commands": [{
+      "id": "4ed57832-f245-4cb9-b28c-40efa7e8c099",
+      "comment": "",
+      "command": "open",
+      "target": "http://127.0.0.1:5500/Note-app/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c43caadc-4044-41ef-9d23-872bab93eb41",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "858x680",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5c644c8a-a2a4-4ea5-9ca5-6ddb85fc6618",
+      "comment": "",
+      "command": "click",
+      "target": "id=lengthSortButton",
+      "targets": [
+        ["id=lengthSortButton", "id"],
+        ["css=#lengthSortButton", "css:finder"],
+        ["xpath=//button[@id='lengthSortButton']", "xpath:attributes"],
+        ["xpath=//button[5]", "xpath:position"],
+        ["xpath=//button[contains(.,'Length')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "85959066-3c92-4939-99b5-cf195aee2821",
+    "name": "7.) sort notes by title",
+    "commands": [{
+      "id": "f0f77592-2962-4c14-bf0f-5922a70b1d2a",
+      "comment": "",
+      "command": "open",
+      "target": "http://127.0.0.1:5500/Note-app/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6b04baea-a127-4540-b5ac-d5c4a7532707",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "860x680",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e41f85a3-4e4e-4334-bb0d-6c5b60de0db2",
+      "comment": "",
+      "command": "click",
+      "target": "id=titleSortButton",
+      "targets": [
+        ["id=titleSortButton", "id"],
+        ["css=#titleSortButton", "css:finder"],
+        ["xpath=//button[@id='titleSortButton']", "xpath:attributes"],
+        ["xpath=//button[6]", "xpath:position"],
+        ["xpath=//button[contains(.,'Title')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "a653fe87-2686-4c09-b330-4146bf7660f9",
+    "name": "8.) edit a note",
+    "commands": [{
+      "id": "63cce3e9-e3e6-4e7f-8951-119ffd7ca569",
+      "comment": "",
+      "command": "open",
+      "target": "http://127.0.0.1:5500/Note-app/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d7d3a1ed-6112-43c3-b278-c8ea4cd7a0c8",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "860x680",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "82e1b771-3f1d-49ad-bdbf-376c439dd51b",
+      "comment": "",
+      "command": "select",
+      "target": "id=savedNotes",
+      "targets": [],
+      "value": "label=note 1"
+    }, {
+      "id": "fa340ff6-d54e-4f74-abaa-951a7cb12085",
+      "comment": "",
+      "command": "click",
+      "target": "css=option:nth-child(1)",
+      "targets": [
+        ["css=option:nth-child(1)", "css:finder"],
+        ["xpath=//option[@value='1']", "xpath:attributes"],
+        ["xpath=//select[@id='savedNotes']/option", "xpath:idRelative"],
+        ["xpath=//option", "xpath:position"],
+        ["xpath=//option[contains(.,'note 1')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "285fec2d-230e-4713-beee-240cd1f257e1",
+      "comment": "",
+      "command": "click",
+      "target": "id=openButton",
+      "targets": [
+        ["id=openButton", "id"],
+        ["css=#openButton", "css:finder"],
+        ["xpath=//button[@id='openButton']", "xpath:attributes"],
+        ["xpath=//button[8]", "xpath:position"],
+        ["xpath=//button[contains(.,'OPEN')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "10b931c2-3a7f-4c45-93ab-ecd56773c9eb",
+      "comment": "",
+      "command": "click",
+      "target": "id=noteField",
+      "targets": [
+        ["id=noteField", "id"],
+        ["css=#noteField", "css:finder"],
+        ["xpath=//textarea[@id='noteField']", "xpath:attributes"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "58ed87fc-3421-4d19-9e96-75598770b74d",
+      "comment": "",
+      "command": "type",
+      "target": "id=noteField",
+      "targets": [
+        ["id=noteField", "id"],
+        ["css=#noteField", "css:finder"],
+        ["xpath=//textarea[@id='noteField']", "xpath:attributes"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": "asdasd edit"
+    }, {
+      "id": "6b35edb4-c290-42ff-8057-deb99c614c24",
+      "comment": "",
+      "command": "click",
+      "target": "id=saveButton",
+      "targets": [
+        ["id=saveButton", "id"],
+        ["css=#saveButton", "css:finder"],
+        ["xpath=//button[@id='saveButton']", "xpath:attributes"],
+        ["xpath=//button[3]", "xpath:position"],
+        ["xpath=//button[contains(.,'SAVE')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "9cfdf910-8344-411c-98cb-b79e41e788ed",
+      "comment": "",
+      "command": "assertAlert",
+      "target": "Note updated!",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "d4f4e163-ad64-47c9-a2e4-c2b8b3217103",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["http://127.0.0.1:5500/", "http://127.0.0.1:5500/Note-app/"],
+  "plugins": []
+}
