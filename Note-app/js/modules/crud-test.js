@@ -115,6 +115,10 @@ addNewNote: function() {
     new_note_being_edited: null
   };
   return addNewNoteObject;
+},
+
+ereaseNoteField: function(note_text) {
+  return note_text.length > 1 ? "" : -1;
 }
 
 }
