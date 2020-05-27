@@ -1,13 +1,8 @@
 const assert = require('chai').assert;
 const crud = require('../Note-app/js/modules/crud-test');
-<<<<<<< HEAD
 const dataprovider = require('./dataprovider.js');
-
-// -----------------------------------------------------------------
-=======
 const organize = require('../Note-app/js/modules/organize')
 console.log(crud);
->>>>>>> bda4be3110c6b97fa95097b42d9baf8fd2312dd0
 //--------------------------------------------------
 // Daniel
 // Save note test
