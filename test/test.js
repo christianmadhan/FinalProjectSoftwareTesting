@@ -5,8 +5,8 @@ console.log(crud);
 //--------------------------------------------------
 // Daniel
 // Save note test
-describe('Save note test #1', function(){
-    it('should return the array of saved notes with the new one added', function(){
+describe('Save note test #1', function () {
+    it('should return the array of saved notes with the new one added', function () {
         let inputArray = new Array();
         let counterString = '';
         let outputArray = crud.saveNote('This is the note body', 'Cool title', inputArray, counterString, false);
@@ -18,47 +18,47 @@ describe('Save note test #1', function(){
     });
 });
 
-describe('Save note test #2', function(){
-    it('should throw "Error: Empty String" because of the empty title', function(){
+describe('Save note test #2', function () {
+    it('should throw "Error: Empty String" because of the empty title', function () {
         let inputArray = new Array();
-        let counterString = '';        
-        try{
+        let counterString = '';
+        try {
             (crud.saveNote('This is the note body', '', inputArray, counterString, false));
         }
-        catch(err){
+        catch (err) {
             assert.isNotOk(false);
         }
     });
 });
 
-describe('Save note test #3', function(){
-    it('should throw "Error: Empty String" because of the empty body', function(){
+describe('Save note test #3', function () {
+    it('should throw "Error: Empty String" because of the empty body', function () {
         let inputArray = new Array();
-        let counterString = '';        
-        try{
+        let counterString = '';
+        try {
             (crud.saveNote('', 'Cool title', inputArray, counterString, false));
         }
-        catch(err){
+        catch (err) {
             assert.isNotOk(false);
         }
     });
 });
 
-describe('Save note test #4', function(){
-    it('should throw "Error: character limit reached" because of long title', function(){
+describe('Save note test #4', function () {
+    it('should throw "Error: character limit reached" because of long title', function () {
         let inputArray = new Array();
-        let counterString = '';        
-        try{
+        let counterString = '';
+        try {
             (crud.saveNote('This is the note body', '1234567890123456789012345678901234567890x', inputArray, counterString, false));
         }
-        catch(err){
+        catch (err) {
             assert.isNotOk(false);
         }
     });
 });
 
-describe('Save note test #5', function(){
-    it('should throw "Error: character limit exteeded" because of the empty body', function(){
+describe('Save note test #5', function () {
+    it('should throw "Error: character limit exteeded" because of the empty body', function () {
         let inputArray = new Array();
         let counterString = '';
         let noteBody = '';
@@ -66,26 +66,26 @@ describe('Save note test #5', function(){
             noteBody += "1234567890x";
         }
 
-        try{
+        try {
             (crud.saveNote(noteBody, 'Cool title', inputArray, counterString, false));
         }
-        catch(err){
+        catch (err) {
             assert.isNotOk(false);
         }
     });
 });
 
-describe('Save note test #6', function(){
-    it('should throw "Error: Maximum number of notes reached"', function(){
+describe('Save note test #6', function () {
+    it('should throw "Error: Maximum number of notes reached"', function () {
         let inputArray = new Array();
         let counterString = '';
 
-        try{
+        try {
             for (var i = 0; i < 11; i++) {
                 crud.saveNote('This is the note body', 'Cool title', inputArray, counterString, false);
             }
         }
-        catch(err){
+        catch (err) {
             assert.isNotOk(false);
         }
     });
@@ -154,14 +154,14 @@ describe('Sort by length test', function () {
     it('Should sort the notes by length', function () {
         let isCorrect = true;
         let sortedNotes = organize.sortByLength(notes)
-        let expected = [longNote, mediumNote, longNote]
+        let expected = [longNote, mediumNote, shortNote]
 
         //assert.equal(expected[2], sortedNotes[2])
         //assert.equal(expected[3], sortedNotes[3])
 
         assert.deepEqual(expected[1], sortedNotes[1])
         assert.deepEqual(expected[3], sortedNotes[3])
-        //assert.deepEqual(expected[2], sortedNotes[2])
+        assert.deepEqual(expected[2], sortedNotes[2])
 
     })
 })
