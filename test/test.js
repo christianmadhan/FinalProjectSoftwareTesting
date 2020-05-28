@@ -5,7 +5,6 @@ const dataprovider = require('./dataprovider.js');
 // -----------------------------------------------------------------
 const organize = require('../Note-app/js/modules/organize')
 
-const organize = require('../Note-app/js/modules/organize');
 const crud2 = require('../Note-app/js/modules/crud');
 console.log(crud);
 //--------------------------------------------------
