@@ -38,6 +38,8 @@ module.exports = {
   // sort by title
   sortByTitle: function (note_array) {
     let sortedarray = note_array.sort(function (a, b) {
+      console.log(a);
+      console.log(b);
       let titleA = a.title.toUpperCase();
       let titleB = b.title.toUpperCase();
 
