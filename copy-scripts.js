@@ -82,8 +82,6 @@ function deleteNote() {
     // recreate the list so that we can see that the note has been deleted
     createSavedNotesList();
   }
-
-  location.reload();
 }
 
 // Opens the selected note
