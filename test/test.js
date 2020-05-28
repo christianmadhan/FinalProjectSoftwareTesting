@@ -5,6 +5,9 @@ const dataprovider = require('./dataprovider.js');
 // -----------------------------------------------------------------
 const organize = require('../Note-app/js/modules/organize')
 
+const organize = require('../Note-app/js/modules/organize');
+const crud2 = require('../Note-app/js/modules/crud');
+console.log(crud);
 //--------------------------------------------------
 // Daniel
 // Save note test
@@ -160,9 +163,41 @@ describe('Add new note test', function () {
 //--------------------------------------------------
 // Kolesar
 
+const Note1 = { id: 1, title: 'Title', note: 'Text', notelength: 1, date: Date.now() };
+const Note2 = { id: 2, title: 'Title2', note: 'Text2', notelength: 2, date: Date.now() };
+const Note3 = { id: 3, title: 'Title3', note: 'Text3', notelength: 3, date: Date.now() };
+const listnotes = [Note1, Note2, Note3]
+
 // Created saved notes list test
+ describe('Create notes list test', function () {
+    it('should create a list with all elements from notes array', function () {
+        let createdlisttest=crud2.createSavedNotesList(dataprovider.GOOD_NOTES)
+        expected = dataprovider.GOOD_NOTES
+        assert.equal(createdlisttest, expected)
+    });
+}); 
+ 
+
+
+const oldNote = { id: 1, title: 'Title', note: 'Text', notelength: 1, date: Date.now() };
+const newNote = { id: 2, title: 'Title2', note: 'Text2', notelength: 2, date: Date.now()+5 };
+const newestNote = { id: 3, title: 'Title3', note: 'Text3', notelength: 3, date: Date.now()+10 };
+const datenotes = [newestNote, newNote, oldNote]
 
 // Sort by date note test
+describe('Sort by date test', function () {
+    it('should sort elements in the list by date', function () {
+
+        // let inputArray = new Array();
+        // let counterString = '';
+
+        let sortedNotesbyDate = organize.sortByDate(datenotes)
+        let expected = [oldNote, newNote, newestNote]
+        assert.deepEqual(expected[1], sortedNotesbyDate[1])
+        assert.deepEqual(expected[3], sortedNotesbyDate[3])
+        assert.deepEqual(expected[2], sortedNotesbyDate[2])
+    });
+});
 
 //--------------------------------------------------
 // Ando
