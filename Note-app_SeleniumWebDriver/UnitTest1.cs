@@ -229,7 +229,7 @@ namespace NoteApp_SeleniumWebDriver
         // SAVE then OPEN notes with different sets of characters (using dataprovider to create multiple test cases)
         [TestCase("Title One", "Body One")] // Latin
         [TestCase("12345", "1234567890")] // numbers
-     // [TestCase(@"~!@#$%^&*()-_=+[]{}|;':,./<>?", @"~!@#$%^&*()-_=+[]{}|;':,./<>?")] // special characters
+      //[TestCase(@"~!@#$%^&*()-_=+[]{}|;':,./<>?", @"~!@#$%^&*()-_=+[]{}|;':,./<>?")]
         [TestCase("ソフトウェアテスト", "ソフトウェアテスト ソフトウェアテスト")] // katakana
         [TestCase("そふとうぇあてすと", "そふとうぇあてすと そふとうぇあてすと")] // hiragana
         [TestCase("軟件測試", "軟件測試 軟件測試")] // kanji

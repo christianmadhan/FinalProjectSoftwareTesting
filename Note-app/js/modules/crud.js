@@ -1,5 +1,6 @@
 // Saves the input field into a new note
 export function saveNote(note_id, text, title, note_array, counter, check_edit_note) {
+    // if note_id is undefined we set it to -1.
     note_id = note_id || -1;
     // Check if the save operation is allowed
     if (title === "") {
@@ -46,7 +47,6 @@ export function saveNote(note_id, text, title, note_array, counter, check_edit_n
           note_array.push(note)
           // update the counter
           counter.innerHTML = note_array.length + "/10";
-          console.log(note_array);
           return note_array;
         default:
           break;
@@ -56,7 +56,7 @@ export function saveNote(note_id, text, title, note_array, counter, check_edit_n
   }
 
 
-  // Deletes the selected note
+// Deletes the selected note
 export function deleteNote(note_id, note_array) {
       // looping through the note array and delete the note which matches the id
        let newarray = note_array.filter((item) => item.id != note_id);
@@ -82,7 +82,7 @@ export function createSavedNotesList(note_array) {
 
 
 
-  // edit a note from our note array
+// edit a note from our note array
 export function editNote(id, title, note, notelength, note_array) {
   console.log(id);
   note_array.forEach((element) => {

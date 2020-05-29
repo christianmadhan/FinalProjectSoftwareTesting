@@ -36,9 +36,9 @@
 
   // sort by title
   export function sortByTitle(note_array) {
-    let sortedarray = note_array.sort(function (a, b) {
-      let titleA = a.title.toUpperCase();
-      let titleB = b.title.toUpperCase();
+    let sortedarray = note_array.sort(function (first, second) {
+      let titleA = first.title.toUpperCase();
+      let titleB = second.title.toUpperCase();
 
       if (titleA < titleB) {
         return -1;
@@ -46,7 +46,7 @@
       if (titleA > titleB) {
         return 1;
       }
-      // names must be equal
+      // title must be equal
       return 0;
     });
     return sortedarray;

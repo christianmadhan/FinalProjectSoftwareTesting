@@ -5,7 +5,6 @@ const organize = require('./test-modules/organize-test')
 
 
 //--------------------------------------------------
-// Daniel
 // Save note test
 describe('Save note test #1', function () {
     it('should return the array of saved notes with the new one added', function () {
@@ -16,7 +15,6 @@ describe('Save note test #1', function () {
         assert.equal(outputArray[0].title.toString(), 'Cool title');
         assert.equal(outputArray[0].note, 'This is the note body');
         assert.equal(outputArray[0].notelength, 21);
-        // assert.equal(outputArray[0].date, Date.now());
     });
 });
 
@@ -93,19 +91,19 @@ describe('Save note test #6', function () {
     });
 });
 
-
-// Delete note test - FAILS BECAUSE MOCHA DOESN'T UNDERSTAND FILTER() FROM JS
+//--------------------------------------------------
+// Delete note test 
 describe('Delete note test #1', function(){
     it('should return the array of saved notes with the new one added', function(){
         let inputArray = dataprovider.GOOD_NOTES;
         let result = crud.deleteNote(1, inputArray);
-        let expected = dataprovider.GOOD_NOTES;
-        assert.notEqual(expected.length, result.length);
+        let expected = 3;
+        assert.equal(expected, result.length);
     });
 });
 
-
-// Edit note test - FAILS BECAUSE MOCHA DOESN'T UNDERSTAND ALERT() FROM JS
+//--------------------------------------------------
+// Edit note test 
 describe('Edit note test #1', function(){
     it('should return the modified array', function(){
         let inputArray = dataprovider.GOOD_NOTES;
@@ -117,7 +115,6 @@ describe('Edit note test #1', function(){
 
 
 //--------------------------------------------------
-// Christian
 // Open note test
 describe('Open note test', function () {
     it('open note should return a note object with the same id as the input id', function () {
@@ -131,6 +128,8 @@ describe('Open note test', function () {
         assert.notEqual(result, note);
     });
 });
+
+//--------------------------------------------------
 // Erease note field test
 describe('Erease note field test', function () {
     it('erease note field text should return an empty string if the string length is greater than 1', function () {
@@ -144,6 +143,7 @@ describe('Erease note field test', function () {
 
 });
 
+//--------------------------------------------------
 // Add new note test
 describe('Add new note test', function () {
     it('add new note should not be equal to null', function () {
@@ -163,9 +163,6 @@ const datenotes = [newestNote, newNote, oldNote]
 describe('Sort by date test', function () {
     it('should sort elements in the list by date', function () {
 
-        // let inputArray = new Array();
-        // let counterString = '';
-
         let sortedNotesbyDate = organize.sortByDate(datenotes)
         let expected = [oldNote, newNote, newestNote]
         assert.deepEqual(expected[1], sortedNotesbyDate[1])
@@ -175,24 +172,17 @@ describe('Sort by date test', function () {
 });
 
 //--------------------------------------------------
-// Ando
-
+// Sort by length note test
 const mediumNote = { id: 1, title: "medium", note: "Medium size note", notelength: 16, }
 const shortNote = { id: 2, title: "short", note: "Short note", notelength: 10, }
 const longNote = { id: 3, title: "long", note: "Way longer long note", notelength: 20, }
 
 const notes = [mediumNote, shortNote, longNote]
 
-
-// Sort by length note test
 describe('Sort by length test', function () {
     it('Should sort the notes by length', function () {
-        let isCorrect = true;
         let sortedNotes = organize.sortByLength(notes)
         let expected = [longNote, mediumNote, shortNote]
-
-        //assert.equal(expected[2], sortedNotes[2])
-        //assert.equal(expected[3], sortedNotes[3])
 
         assert.deepEqual(expected[1], sortedNotes[1])
         assert.deepEqual(expected[3], sortedNotes[3])
@@ -201,15 +191,13 @@ describe('Sort by length test', function () {
     })
 })
 
-
+//--------------------------------------------------
 // Sort by title note test
 
 const A = { id: 1, title: "A", note: "Medium size note", notelength: 16, }
 const B = { id: 2, title: "B", note: "Short note", notelength: 10, }
 const C = { id: 3, title: "C", note: "Way longer long note", notelength: 20, }
 
-
-// array ( correct )
 const notesToSortByTitle = [ C, A, B ]
 
 describe('Sort by title test', function () {

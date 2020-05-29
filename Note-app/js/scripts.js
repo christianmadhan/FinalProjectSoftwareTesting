@@ -1,3 +1,4 @@
+// impoort CURD and ORGANIZE modules.
 import * as CRUD from './modules/crud.js';
 import * as ORGANIZE from './modules/organize.js';
 
@@ -54,6 +55,8 @@ saveBTN.addEventListener('click', () => {
     Notes = created;
 });
 
+/* Deletes the selected note from the list. If no notes are selected
+ an alert will be displyed */
 deleteNoteBTN.addEventListener('click', () => {
   let selectedIndex = saved_notes_list.options[saved_notes_list.selectedIndex];
   
@@ -70,6 +73,11 @@ deleteNoteBTN.addEventListener('click', () => {
   location.reload();
  });
 
+ /* 
+ we imitate opening a note, by getting the selected note by the user and setting the title field
+ and note field in the UI by the title and note values in the selected note. If the user haven't
+ picked a note, an alert will be displayed.
+ */
  openNoteBTN.addEventListener('click', () => {
   let selectedIndex = saved_notes_list.options[saved_notes_list.selectedIndex];
 
@@ -86,6 +94,13 @@ deleteNoteBTN.addEventListener('click', () => {
   }
  });
 
+ /* 
+ Adding a new note puts the note application back to its default state
+ when the user open a note, the note app is a in editing state, and when ´the user
+ press the add new note button the app goes back to normal state. clears out the note text field
+ and the title field. sets the note_being_edited to null, the user can now add a new note. we hide
+ the add new note button afterward.
+ */
  addNewNoteBTN.addEventListener('click', () => {
   let object = CRUD.addNewNote();
   titlefield.value = object.emptyTitle;
@@ -95,6 +110,7 @@ deleteNoteBTN.addEventListener('click', () => {
   addNewNoteBTN.classList.toggle("show");
  });
 
+ // Sorts the notes array by date
  sort_by_dates.addEventListener('click', () => {
     let sortedarray = ORGANIZE.sortByDate(Notes);
     let created = CRUD.createSavedNotesList(sortedarray);
@@ -102,12 +118,14 @@ deleteNoteBTN.addEventListener('click', () => {
 
  });
 
+// Sorts the notes array by title
  sort_by_title.addEventListener('click', () => {
   let sortedarray = ORGANIZE.sortByTitle(Notes);
   let created = CRUD.createSavedNotesList(sortedarray);
   Notes = created;
 });
 
+// Sorts the notes array by length
 sort_by_length.addEventListener('click', () => {
   let sortedarray = ORGANIZE.sortByLength(Notes);
   let created = CRUD.createSavedNotesList(sortedarray);
