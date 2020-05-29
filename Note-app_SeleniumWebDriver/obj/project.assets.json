@@ -5342,19 +5342,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Daniel\\.nuget\\packages\\": {}
+    "C:\\Users\\cmiw\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\school\\TESTING\\_FINAL EXAM PROJECT\\repo\\FinalProjectSoftwareTesting\\Note-app_SeleniumWebDriver\\NoteApp_SeleniumWebDriver.csproj",
+      "projectUniqueName": "C:\\Users\\cmiw\\Documents\\GitHub\\FinalProjectSoftwareTesting\\Note-app_SeleniumWebDriver\\NoteApp_SeleniumWebDriver.csproj",
       "projectName": "NoteApp_SeleniumWebDriver",
-      "projectPath": "C:\\Users\\Daniel\\Desktop\\school\\TESTING\\_FINAL EXAM PROJECT\\repo\\FinalProjectSoftwareTesting\\Note-app_SeleniumWebDriver\\NoteApp_SeleniumWebDriver.csproj",
-      "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniel\\Desktop\\school\\TESTING\\_FINAL EXAM PROJECT\\repo\\FinalProjectSoftwareTesting\\Note-app_SeleniumWebDriver\\obj\\",
+      "projectPath": "C:\\Users\\cmiw\\Documents\\GitHub\\FinalProjectSoftwareTesting\\Note-app_SeleniumWebDriver\\NoteApp_SeleniumWebDriver.csproj",
+      "packagesPath": "C:\\Users\\cmiw\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cmiw\\Documents\\GitHub\\FinalProjectSoftwareTesting\\Note-app_SeleniumWebDriver\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cmiw\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5413,12 +5413,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

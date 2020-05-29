@@ -1,6 +1,5 @@
-module.exports = {
-  // sort by save date
-  sortByDate: function (note_array) {
+// sort by save date
+  export function sortByDate (note_array) {
     let sortedarray = note_array.sort(function (first, second) {
       let firstDate = first.date;
       let secondDate = second.date;
@@ -15,10 +14,10 @@ module.exports = {
       return 0;
     });
     return sortedarray;
-  },
+  }
 
   // sort by length
-  sortByLength: function (note_array) {
+  export function sortByLength(note_array) {
     let sortedarray = note_array.sort(function (first, second) {
       let firstLength = first.notelength;
       let secondLength = second.notelength;
@@ -33,13 +32,11 @@ module.exports = {
       return 0;
     });
     return sortedarray;
-  },
+  }
 
   // sort by title
-  sortByTitle: function (note_array) {
+  export function sortByTitle(note_array) {
     let sortedarray = note_array.sort(function (a, b) {
-      console.log(a);
-      console.log(b);
       let titleA = a.title.toUpperCase();
       let titleB = b.title.toUpperCase();
 
@@ -54,4 +51,3 @@ module.exports = {
     });
     return sortedarray;
   }
-}

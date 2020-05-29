@@ -1,6 +1,6 @@
 // Saves the input field into a new note
-export function saveNote(text, title, note_array, counter, check_edit_note) {
-
+export function saveNote(note_id, text, title, note_array, counter, check_edit_note) {
+    note_id = note_id || -1;
     // Check if the save operation is allowed
     if (title === "") {
       alert("Title can't be empty");
@@ -26,7 +26,8 @@ export function saveNote(text, title, note_array, counter, check_edit_note) {
       switch (check_edit_note) {
         // Editing a note from our note array
         case true:
-       let updatedNotesArray =   editNote(note_being_edited.id, title, text, text.length, note_array);
+        var notelength_updated = text.length;
+       let updatedNotesArray =   editNote(note_id, title, text, notelength_updated, note_array);
        return updatedNotesArray;
 
         // Creating a new note and adding it to the note array
@@ -83,6 +84,7 @@ export function createSavedNotesList(note_array) {
 
   // edit a note from our note array
 export function editNote(id, title, note, notelength, note_array) {
+  console.log(id);
   note_array.forEach((element) => {
     if (element.id == id) {
       element.title = title;

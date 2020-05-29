@@ -1,12 +1,9 @@
 const assert = require('chai').assert;
-const crud = require('../Note-app/js/modules/crud-test');
+const crud = require('./test-modules/crud-test');
 const dataprovider = require('./dataprovider.js');
+const organize = require('./test-modules/organize-test')
 
-// -----------------------------------------------------------------
-const organize = require('../Note-app/js/modules/organize')
 
-const crud2 = require('../Note-app/js/modules/crud');
-console.log(crud);
 //--------------------------------------------------
 // Daniel
 // Save note test
@@ -101,8 +98,9 @@ describe('Save note test #6', function () {
 describe('Delete note test #1', function(){
     it('should return the array of saved notes with the new one added', function(){
         let inputArray = dataprovider.GOOD_NOTES;
-        let result = 
-        assert.equal(inputArray.length, 1);
+        let result = crud.deleteNote(1, inputArray);
+        let expected = dataprovider.GOOD_NOTES;
+        assert.notEqual(expected.length, result.length);
     });
 });
 
@@ -110,16 +108,12 @@ describe('Delete note test #1', function(){
 // Edit note test - FAILS BECAUSE MOCHA DOESN'T UNDERSTAND ALERT() FROM JS
 describe('Edit note test #1', function(){
     it('should return the modified array', function(){
-        let inputArray = new Array();
-        let counterString = '';
-        crud.saveNote('This is the note body', 'Cool title', inputArray, counterString, false);
-        crud.saveNote('This is the note body', 'Cool title', inputArray, counterString, false);
-        inputArray = crud.editNote(0, 'new title', 'new body', 8, inputArray);
-        assert.equal(inputArray[0].title, 'new title');
-        assert.equal(inputArray[0].note, 'new body');
+        let inputArray = dataprovider.GOOD_NOTES;
+        let result = JSON.parse(crud.editNote(1, "new title", "new body", 8, inputArray));    
+        assert.equal(result[0].title, "new title");
+        assert.equal(result[0].note, "new body");
     });
 });
-
 
 
 //--------------------------------------------------
@@ -160,24 +154,6 @@ describe('Add new note test', function () {
 });
 
 //--------------------------------------------------
-// Kolesar
-
-const Note1 = { id: 1, title: 'Title', note: 'Text', notelength: 1, date: Date.now() };
-const Note2 = { id: 2, title: 'Title2', note: 'Text2', notelength: 2, date: Date.now() };
-const Note3 = { id: 3, title: 'Title3', note: 'Text3', notelength: 3, date: Date.now() };
-const listnotes = [Note1, Note2, Note3]
-
-// Created saved notes list test
- describe('Create notes list test', function () {
-    it('should create a list with all elements from notes array', function () {
-        let createdlisttest=crud2.createSavedNotesList(dataprovider.GOOD_NOTES)
-        expected = dataprovider.GOOD_NOTES
-        assert.equal(createdlisttest, expected)
-    });
-}); 
- 
-
-
 const oldNote = { id: 1, title: 'Title', note: 'Text', notelength: 1, date: Date.now() };
 const newNote = { id: 2, title: 'Title2', note: 'Text2', notelength: 2, date: Date.now()+5 };
 const newestNote = { id: 3, title: 'Title3', note: 'Text3', notelength: 3, date: Date.now()+10 };
