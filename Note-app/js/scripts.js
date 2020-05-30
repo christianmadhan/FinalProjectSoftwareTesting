@@ -49,7 +49,13 @@ saveBTN.addEventListener('click', () => {
     // Get the title field, note field and the saved note counter
     let note_text = notefield.value;
     let title_text = titlefield.value;
-    note_being_edited.id = note_being_edited.id || -1;
+    if(note_being_edited == null){
+      note_being_edited = {
+        id: -1
+      }
+    } else {
+      note_being_edited.id = note_being_edited.id || -1;
+    }
     let news_saved_notes_array = CRUD.saveNote(note_being_edited.id,note_text, title_text, Notes, notes_counter, edit_note);
     let created =CRUD.createSavedNotesList(news_saved_notes_array);
     Notes = created;
