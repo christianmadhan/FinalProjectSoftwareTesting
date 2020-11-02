@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cmiw\\Documents\\GitHub\\FinalProjectSoftwareTesting\\Note-app_SeleniumWebDriver\\NoteApp_SeleniumWebDriver.csproj": {}
+    "/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/NoteApp_SeleniumWebDriver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cmiw\\Documents\\GitHub\\FinalProjectSoftwareTesting\\Note-app_SeleniumWebDriver\\NoteApp_SeleniumWebDriver.csproj": {
+    "/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/NoteApp_SeleniumWebDriver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cmiw\\Documents\\GitHub\\FinalProjectSoftwareTesting\\Note-app_SeleniumWebDriver\\NoteApp_SeleniumWebDriver.csproj",
+        "projectUniqueName": "/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/NoteApp_SeleniumWebDriver.csproj",
         "projectName": "NoteApp_SeleniumWebDriver",
-        "projectPath": "C:\\Users\\cmiw\\Documents\\GitHub\\FinalProjectSoftwareTesting\\Note-app_SeleniumWebDriver\\NoteApp_SeleniumWebDriver.csproj",
-        "packagesPath": "C:\\Users\\cmiw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cmiw\\Documents\\GitHub\\FinalProjectSoftwareTesting\\Note-app_SeleniumWebDriver\\obj\\",
+        "projectPath": "/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/NoteApp_SeleniumWebDriver.csproj",
+        "packagesPath": "/Users/christianwitt/.nuget/packages/",
+        "outputPath": "/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cmiw\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/christianwitt/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -73,18 +71,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
         }
       }
     }

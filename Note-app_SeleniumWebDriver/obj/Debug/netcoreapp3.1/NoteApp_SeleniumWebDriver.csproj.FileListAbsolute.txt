@@ -1,286 +1,385 @@
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\nunit.engine.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.deps.json
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.runtimeconfig.json
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.runtimeconfig.dev.json
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\testhost.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\nunit.framework.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.csprojAssemblyReference.cache
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.AssemblyInfoInputs.cache
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.AssemblyInfo.cs
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Selenium webdriver testing\NoteApp_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.csproj.CopyComplete
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\nunit.engine.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.deps.json
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.runtimeconfig.json
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.runtimeconfig.dev.json
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.pdb
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\testhost.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\nunit.framework.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\WebDriver.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.AssemblyInfoInputs.cache
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.AssemblyInfo.cs
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.csproj.CopyComplete
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.pdb
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-C:\Users\Daniel\Desktop\school\TESTING\_FINAL EXAM PROJECT\repo\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.csprojAssemblyReference.cache
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.csprojAssemblyReference.cache
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.AssemblyInfoInputs.cache
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.AssemblyInfo.cs
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.csproj.CoreCompileInputs.cache
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.pdb
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\nunit.engine.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.deps.json
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.runtimeconfig.json
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.runtimeconfig.dev.json
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.pdb
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\testhost.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\nunit.framework.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\WebDriver.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.csproj.CopyComplete
-C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver\obj\Debug\netcoreapp3.1\NoteApp_SeleniumWebDriver.genruntimeconfig.cache
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/nunit.engine.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.deps.json
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.runtimeconfig.json
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.runtimeconfig.dev.json
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/testhost.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/nunit.framework.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.csprojAssemblyReference.cache
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.AssemblyInfoInputs.cache
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.AssemblyInfo.cs
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Selenium webdriver testing/NoteApp_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.csproj.CopyComplete
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/nunit.engine.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.deps.json
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.runtimeconfig.json
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.runtimeconfig.dev.json
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.pdb
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/testhost.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/nunit.framework.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/WebDriver.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.AssemblyInfoInputs.cache
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.AssemblyInfo.cs
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.csproj.CopyComplete
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.pdb
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:/Users/Daniel/Desktop/school/TESTING/_FINAL EXAM PROJECT/repo/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.csprojAssemblyReference.cache
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.csprojAssemblyReference.cache
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.AssemblyInfoInputs.cache
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.AssemblyInfo.cs
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.csproj.CoreCompileInputs.cache
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.pdb
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/nunit.engine.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.deps.json
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.runtimeconfig.json
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.runtimeconfig.dev.json
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.pdb
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/testhost.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/nunit.framework.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/WebDriver.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.csproj.CopyComplete
+C:/Users/cmiw/Documents/GitHub/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.genruntimeconfig.cache
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/nunit.engine.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.deps.json
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.runtimeconfig.json
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.runtimeconfig.dev.json
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.pdb
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/testhost.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.csprojAssemblyReference.cache
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.AssemblyInfoInputs.cache
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.AssemblyInfo.cs
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.csproj.CoreCompileInputs.cache
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.csproj.CopyComplete
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.dll
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.pdb
+/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/obj/Debug/netcoreapp3.1/NoteApp_SeleniumWebDriver.genruntimeconfig.cache

@@ -14,7 +14,7 @@ namespace NoteApp_SeleniumWebDriver
     {
         IWebDriver driver;
         string weburl = "http://localhost:3000";
-        string driverlocation = @"C:\Users\cmiw\Documents\GitHub\FinalProjectSoftwareTesting\Note-app_SeleniumWebDriver";
+        string driverlocation = @"/Users/christianwitt/Documents/Github/FinalProjectSoftwareTesting/Note-app_SeleniumWebDriver/";
 
         [SetUp]
         public void Setup()
